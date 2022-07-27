@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/delete_btn_bg.xml" value="0.11" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/edit_btn_bg.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/home_button_bg.xml" value="0.11" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/ic_mentors.xml" value="0.11" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/ic_pdp_logo.xml" value="0.11" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/ic_show.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable-v24/show_btn_bg.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable/button_style.xml" value="0.1265" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/drawable/ic_edt_background.xml" value="0.1385" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/activity_main.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/dialog_add_course.xml" value="0.18" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/dialog_edit_group.xml" value="0.22" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/dialog_edit_mentor.xml" value="0.22" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/drop_down_item.xml" value="0.67" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_add_group.xml" value="0.1940928270042194" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_add_group_student.xml" value="0.33" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_add_mentor.xml" value="0.22" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_add_student.xml" value="0.1" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_course_details.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_courses_list.xml" value="0.18" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_courses_list_for_groups.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_courses_list_for_mentors.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_edit_group_student.xml" value="0.14151346729371525" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_for_creating_cources.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_group_result.xml" value="0.2" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_groups_page.xml" value="0.18" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_mentors_list.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/item_groups_list.xml" value="0.5235955056179775" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/item_mentors_list.xml" value="0.40699815837937386" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/item_student_rv.xml" value="0.33" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/list_cources.xml" value="0.25" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/layout/list_courses.xml" value="0.16032608695652173" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/3 dars/2 vazifa/Pdp/app/src/main/res/menu/menu.xml" value="0.18645833333333334" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_courses_list_for_groups.xml" value="0.1675929884566054" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_for_creating_cources.xml" value="0.1314596554850408" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_group_result.xml" value="0.1314596554850408" />
+        <entry key="..\:/Khumoyun/pdp.6-module/6 modul vazifalari/7 dars/2 vazifa/Pdp/app/src/main/res/layout/fragment_groups_page.xml" value="0.1675929884566054" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

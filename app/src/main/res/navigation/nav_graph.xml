@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.a10.dars.sodda.pdp.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/action_homeFragment_to_coursesListFragment"
+            app:destination="@id/coursesListFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_coursesListForGroupsFragment"
+            app:destination="@id/coursesListForGroupsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_coursesListForMentorsFragment"
+            app:destination="@id/coursesListForMentorsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coursesListFragment"
+        android:name="com.example.a10.dars.sodda.pdp.CoursesListFragment"
+        android:label="fragment_courses_list"
+        tools:layout="@layout/fragment_courses_list" >
+        <action
+            android:id="@+id/action_coursesListFragment_to_courseDetailsFragment"
+            app:destination="@id/courseDetailsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coursesListForGroupsFragment"
+        android:name="com.example.a10.dars.sodda.pdp.CoursesListForGroupsFragment"
+        android:label="fragment_courses_list_for_groups"
+        tools:layout="@layout/fragment_courses_list_for_groups" >
+        <action
+            android:id="@+id/action_coursesListForGroupsFragment_to_groupsPageFragment"
+            app:destination="@id/groupsPageFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/coursesListForMentorsFragment"
+        android:name="com.example.a10.dars.sodda.pdp.CoursesListForMentorsFragment"
+        android:label="fragment_courses_list_for_mentors"
+        tools:layout="@layout/fragment_courses_list_for_mentors" >
+        <action
+            android:id="@+id/action_coursesListForMentorsFragment_to_mentorsListFragment"
+            app:destination="@id/mentorsListFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/courseDetailsFragment"
+        android:name="com.example.a10.dars.sodda.pdp.CourseDetailsFragment"
+        android:label="fragment_course_details"
+        tools:layout="@layout/fragment_course_details" >
+        <action
+            android:id="@+id/action_courseDetailsFragment_to_addStudentFragment"
+            app:destination="@id/addStudentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/groupsPageFragment"
+        android:name="com.example.a10.dars.sodda.pdp.GroupsPageFragment"
+        android:label="fragment_groups_page"
+        tools:layout="@layout/fragment_groups_page" >
+        <action
+            android:id="@+id/action_groupsPageFragment_to_addGroupFragment"
+            app:destination="@id/addGroupFragment" />
+        <action
+            android:id="@+id/action_groupsPageFragment_to_fragmentForCreatingCources"
+            app:destination="@id/fragmentForCreatingCources" />
+    </fragment>
+    <fragment
+        android:id="@+id/mentorsListFragment"
+        android:name="com.example.a10.dars.sodda.pdp.MentorsListFragment"
+        android:label="fragment_mentors_list"
+        tools:layout="@layout/fragment_mentors_list" >
+        <action
+            android:id="@+id/action_mentorsListFragment_to_addMentorFragment"
+            app:destination="@id/addMentorFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addStudentFragment"
+        android:name="com.example.a10.dars.sodda.pdp.AddStudentFragment"
+        android:label="fragment_add_student"
+        tools:layout="@layout/fragment_add_student" />
+    <fragment
+        android:id="@+id/addMentorFragment"
+        android:name="com.example.a10.dars.sodda.pdp.AddMentorFragment"
+        android:label="fragment_add_mentor"
+        tools:layout="@layout/fragment_add_mentor" />
+    <fragment
+        android:id="@+id/addGroupFragment"
+        android:name="com.example.a10.dars.sodda.pdp.AddGroupFragment"
+        android:label="fragment_add_group"
+        tools:layout="@layout/fragment_add_group" />
+    <fragment
+        android:id="@+id/fragmentForCreatingCources"
+        android:name="com.example.a10.dars.sodda.pdp.FragmentForCreatingCources"
+        android:label="fragment_for_creating_cources"
+        tools:layout="@layout/fragment_for_creating_cources" >
+        <action
+            android:id="@+id/action_fragmentForCreatingCources_to_groupResultFragment"
+            app:destination="@id/groupResultFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/groupResultFragment"
+        android:name="com.example.a10.dars.sodda.pdp.GroupResultFragment"
+        android:label="fragment_group_result"
+        tools:layout="@layout/fragment_group_result" >
+        <action
+            android:id="@+id/action_groupResultFragment_to_addGroupStudentFragment"
+            app:destination="@id/addGroupStudentFragment" />
+        <action
+            android:id="@+id/action_groupResultFragment_to_editGroupStudentFragment"
+            app:destination="@id/editGroupStudentFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/addGroupStudentFragment"
+        android:name="com.example.a10.dars.sodda.pdp.AddGroupStudentFragment"
+        android:label="fragment_add_group_student"
+        tools:layout="@layout/fragment_add_group_student" />
+    <fragment
+        android:id="@+id/editGroupStudentFragment"
+        android:name="com.example.a10.dars.sodda.pdp.EditGroupStudentFragment"
+        android:label="fragment_edit_group_student"
+        tools:layout="@layout/fragment_edit_group_student" />
+</navigation>
